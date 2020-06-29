@@ -119,3 +119,7 @@ game_hash = {
               }]
   }
 }
+
+puts game_hash.class
+puts game_hash
+

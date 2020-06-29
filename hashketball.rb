@@ -35,7 +35,7 @@ game_hash = {
           :steals => nil,
           :blocks => nil,
           :slam_dunks => nil,
-          }
+        },
           {
             :player_name => nil,
             :number => nil,
@@ -46,7 +46,7 @@ game_hash = {
             :steals => nil,
             :blocks => nil,
             :slam_dunks => nil,
-            }
+          },
             {
               :player_name => nil,
               :number => nil,
@@ -94,7 +94,7 @@ game_hash = {
           :steals => nil,
           :blocks => nil,
           :slam_dunks => nil,
-          }
+        },
           {
             :player_name => nil,
             :number => nil,
@@ -105,7 +105,7 @@ game_hash = {
             :steals => nil,
             :blocks => nil,
             :slam_dunks => nil,
-            }
+          },
             {
               :player_name => nil,
               :number => nil,

@@ -1,4 +1,6 @@
 # Write your code here!
+
+def game_hash
 game_hash = {
   :home => {
     :team_name => 'Brooklyn Nets',
@@ -119,6 +121,7 @@ game_hash = {
               }]
   }
 }
+game_hash
+end
 
-puts game_hash.class
-puts game_hash
+

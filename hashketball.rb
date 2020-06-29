@@ -28,7 +28,7 @@ game_hash = {
         :slam_dunks => 7,
         },
         {
-          :player_name => nil,
+          :player_name => 'Brook Lopez',
           :number => nil,
           :shoe => nil,
           :points => nil,
@@ -39,7 +39,7 @@ game_hash = {
           :slam_dunks => nil,
         },
           {
-            :player_name => nil,
+            :player_name => 'Mason Plumlee',
             :number => nil,
             :shoe => nil,
             :points => nil,
@@ -50,7 +50,7 @@ game_hash = {
             :slam_dunks => nil,
           },
             {
-              :player_name => nil,
+              :player_name => 'Jason Terry',
               :number => nil,
               :shoe => nil,
               :points => nil,

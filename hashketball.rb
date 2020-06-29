@@ -120,4 +120,4 @@ game_hash = {
   }
 }
 
-puts game_hash
+pp game_hash
